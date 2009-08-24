@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+	char a = 'a';
+	char b = 'b';
+	char c = a-b ;
+	printf("a = %c , b = %c , c = %c", a, b, c);
+}
